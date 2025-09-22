@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'Note' in project 'Note'
+➜ Explicit dependency on target 'ShareExtension' in project 'Note'
+Target 'ShareExtension' in project 'Note' (no dependencies)

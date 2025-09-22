@@ -1,0 +1,49 @@
+{
+  "fill" : {
+    "solid" : "gray:1.00000,1.00000"
+  },
+  "groups" : [
+    {
+      "blur-material" : null,
+      "layers" : [
+        {
+          "blend-mode" : "normal",
+          "fill" : "none",
+          "glass" : true,
+          "image-name" : "Gemini_Generated_Image_m0b482m0b482m0b4.png",
+          "name" : "Gemini_Generated_Image_m0b482m0b482m0b4",
+          "opacity" : 0.82,
+          "position" : {
+            "scale" : 1.2,
+            "translation-in-points" : [
+              -29.983203868202253,
+              -210.96743188637717
+            ]
+          }
+        }
+      ],
+      "lighting" : "individual",
+      "position" : {
+        "scale" : 1,
+        "translation-in-points" : [
+          8.65625,
+          185.3046875
+        ]
+      },
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "" : {
+    "diagnostics" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/Note-primary.dia",
+    "emit-module-dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/Note-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/Note-primary-emit-module.dia",
+    "pch" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/Note-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/Note-primary.swiftdeps"
+  },
+  "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/brycecole/Files/test/test/App.swift" : {
+    "const-values" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/App.swiftconstvalues",
+    "dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/App.d",
+    "diagnostics" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/App.dia",
+    "index-unit-output-path" : "/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/App.o",
+    "llvm-bc" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/App.bc",
+    "object" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/App.o",
+    "swift-dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/App.swiftdeps",
+    "swiftmodule" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/App~partial.swiftmodule"
+  },
+  "/Users/brycecole/Files/test/test/Extensions/String+Markdown.swift" : {
+    "const-values" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/String+Markdown.swiftconstvalues",
+    "dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/String+Markdown.d",
+    "diagnostics" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/String+Markdown.dia",
+    "index-unit-output-path" : "/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/String+Markdown.o",
+    "llvm-bc" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/String+Markdown.bc",
+    "object" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/String+Markdown.o",
+    "swift-dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/String+Markdown.swiftdeps",
+    "swiftmodule" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/String+Markdown~partial.swiftmodule"
+  },
+  "/Users/brycecole/Files/test/test/Models/Folder.swift" : {
+    "const-values" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/Folder.swiftconstvalues",
+    "dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/Folder.d",
+    "diagnostics" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/Folder.dia",
+    "index-unit-output-path" : "/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/Folder.o",
+    "llvm-bc" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/Folder.bc",
+    "object" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/Folder.o",
+    "swift-dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/Folder.swiftdeps",
+    "swiftmodule" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/Folder~partial.swiftmodule"
+  },
+  "/Users/brycecole/Files/test/test/Models/Note.swift" : {
+    "const-values" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/Note.swiftconstvalues",
+    "dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/Note.d",
+    "diagnostics" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/Note.dia",
+    "index-unit-output-path" : "/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/Note.o",
+    "llvm-bc" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/Note.bc",
+    "object" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/Note.o",
+    "swift-dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/Note.swiftdeps",
+    "swiftmodule" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/Note~partial.swiftmodule"
+  },
+  "/Users/brycecole/Files/test/test/Views/AddFolderView.swift" : {
+    "const-values" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/AddFolderView.swiftconstvalues",
+    "dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/AddFolderView.d",
+    "diagnostics" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/AddFolderView.dia",
+    "index-unit-output-path" : "/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/AddFolderView.o",
+    "llvm-bc" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/AddFolderView.bc",
+    "object" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/AddFolderView.o",
+    "swift-dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/AddFolderView.swiftdeps",
+    "swiftmodule" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/AddFolderView~partial.swiftmodule"
+  },
+  "/Users/brycecole/Files/test/test/Views/AddLinkView.swift" : {
+    "const-values" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/AddLinkView.swiftconstvalues",
+    "dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/AddLinkView.d",
+    "diagnostics" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/AddLinkView.dia",
+    "index-unit-output-path" : "/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/AddLinkView.o",
+    "llvm-bc" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/AddLinkView.bc",
+    "object" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/AddLinkView.o",
+    "swift-dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/AddLinkView.swiftdeps",
+    "swiftmodule" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/AddLinkView~partial.swiftmodule"
+  },
+  "/Users/brycecole/Files/test/test/Views/AddNoteView.swift" : {
+    "const-values" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/AddNoteView.swiftconstvalues",
+    "dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/AddNoteView.d",
+    "diagnostics" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/AddNoteView.dia",
+    "index-unit-output-path" : "/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/AddNoteView.o",
+    "llvm-bc" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/AddNoteView.bc",
+    "object" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/AddNoteView.o",
+    "swift-dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/AddNoteView.swiftdeps",
+    "swiftmodule" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/AddNoteView~partial.swiftmodule"
+  },
+  "/Users/brycecole/Files/test/test/Views/ContentView.swift" : {
+    "const-values" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/brycecole/Files/test/test/Views/EditNoteView.swift" : {
+    "const-values" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/EditNoteView.swiftconstvalues",
+    "dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/EditNoteView.d",
+    "diagnostics" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/EditNoteView.dia",
+    "index-unit-output-path" : "/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/EditNoteView.o",
+    "llvm-bc" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/EditNoteView.bc",
+    "object" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/EditNoteView.o",
+    "swift-dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/EditNoteView.swiftdeps",
+    "swiftmodule" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/EditNoteView~partial.swiftmodule"
+  },
+  "/Users/brycecole/Files/test/test/Views/Extensions.swift" : {
+    "const-values" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/Extensions.swiftconstvalues",
+    "dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/Extensions.d",
+    "diagnostics" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/Extensions.dia",
+    "index-unit-output-path" : "/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/Extensions.o",
+    "llvm-bc" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/Extensions.bc",
+    "object" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/Extensions.o",
+    "swift-dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/Extensions.swiftdeps",
+    "swiftmodule" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/Extensions~partial.swiftmodule"
+  },
+  "/Users/brycecole/Files/test/test/Views/FolderDetailView.swift" : {
+    "const-values" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/FolderDetailView.swiftconstvalues",
+    "dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/FolderDetailView.d",
+    "diagnostics" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/FolderDetailView.dia",
+    "index-unit-output-path" : "/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/FolderDetailView.o",
+    "llvm-bc" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/FolderDetailView.bc",
+    "object" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/FolderDetailView.o",
+    "swift-dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/FolderDetailView.swiftdeps",
+    "swiftmodule" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/FolderDetailView~partial.swiftmodule"
+  },
+  "/Users/brycecole/Files/test/test/Views/FolderSquircleView.swift" : {
+    "const-values" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/FolderSquircleView.swiftconstvalues",
+    "dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/FolderSquircleView.d",
+    "diagnostics" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/FolderSquircleView.dia",
+    "index-unit-output-path" : "/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/FolderSquircleView.o",
+    "llvm-bc" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/FolderSquircleView.bc",
+    "object" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/FolderSquircleView.o",
+    "swift-dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/FolderSquircleView.swiftdeps",
+    "swiftmodule" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/FolderSquircleView~partial.swiftmodule"
+  },
+  "/Users/brycecole/Files/test/test/Views/FoldersView.swift" : {
+    "const-values" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/FoldersView.swiftconstvalues",
+    "dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/FoldersView.d",
+    "diagnostics" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/FoldersView.dia",
+    "index-unit-output-path" : "/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/FoldersView.o",
+    "llvm-bc" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/FoldersView.bc",
+    "object" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/FoldersView.o",
+    "swift-dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/FoldersView.swiftdeps",
+    "swiftmodule" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/FoldersView~partial.swiftmodule"
+  },
+  "/Users/brycecole/Files/test/test/Views/MarkdownContentView.swift" : {
+    "const-values" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/MarkdownContentView.swiftconstvalues",
+    "dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/MarkdownContentView.d",
+    "diagnostics" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/MarkdownContentView.dia",
+    "index-unit-output-path" : "/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/MarkdownContentView.o",
+    "llvm-bc" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/MarkdownContentView.bc",
+    "object" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/MarkdownContentView.o",
+    "swift-dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/MarkdownContentView.swiftdeps",
+    "swiftmodule" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/MarkdownContentView~partial.swiftmodule"
+  },
+  "/Users/brycecole/Files/test/test/Views/NoteDetailView.swift" : {
+    "const-values" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/NoteDetailView.swiftconstvalues",
+    "dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/NoteDetailView.d",
+    "diagnostics" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/NoteDetailView.dia",
+    "index-unit-output-path" : "/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/NoteDetailView.o",
+    "llvm-bc" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/NoteDetailView.bc",
+    "object" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/NoteDetailView.o",
+    "swift-dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/NoteDetailView.swiftdeps",
+    "swiftmodule" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/NoteDetailView~partial.swiftmodule"
+  },
+  "/Users/brycecole/Files/test/test/Views/NoteRowView.swift" : {
+    "const-values" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/NoteRowView.swiftconstvalues",
+    "dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/NoteRowView.d",
+    "diagnostics" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/NoteRowView.dia",
+    "index-unit-output-path" : "/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/NoteRowView.o",
+    "llvm-bc" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/NoteRowView.bc",
+    "object" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/NoteRowView.o",
+    "swift-dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/NoteRowView.swiftdeps",
+    "swiftmodule" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/NoteRowView~partial.swiftmodule"
+  },
+  "/Users/brycecole/Files/test/test/Views/ShareExtensionShareViewController.swift" : {
+    "const-values" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/ShareExtensionShareViewController.swiftconstvalues",
+    "dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/ShareExtensionShareViewController.d",
+    "diagnostics" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/ShareExtensionShareViewController.dia",
+    "index-unit-output-path" : "/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/ShareExtensionShareViewController.o",
+    "llvm-bc" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/ShareExtensionShareViewController.bc",
+    "object" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/ShareExtensionShareViewController.o",
+    "swift-dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/ShareExtensionShareViewController.swiftdeps",
+    "swiftmodule" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/ShareExtensionShareViewController~partial.swiftmodule"
+  },
+  "/Users/brycecole/Files/test/test/Views/ShareSheet.swift" : {
+    "const-values" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/ShareSheet.swiftconstvalues",
+    "dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/ShareSheet.d",
+    "diagnostics" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/ShareSheet.dia",
+    "index-unit-output-path" : "/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/ShareSheet.o",
+    "llvm-bc" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/ShareSheet.bc",
+    "object" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/ShareSheet.o",
+    "swift-dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/ShareSheet.swiftdeps",
+    "swiftmodule" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/ShareSheet~partial.swiftmodule"
+  },
+  "/Users/brycecole/Files/test/test/Views/SharedDataManager.swift" : {
+    "const-values" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/SharedDataManager.swiftconstvalues",
+    "dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/SharedDataManager.d",
+    "diagnostics" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/SharedDataManager.dia",
+    "index-unit-output-path" : "/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/SharedDataManager.o",
+    "llvm-bc" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/SharedDataManager.bc",
+    "object" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/SharedDataManager.o",
+    "swift-dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/SharedDataManager.swiftdeps",
+    "swiftmodule" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/SharedDataManager~partial.swiftmodule"
+  },
+  "/Users/brycecole/Files/test/test/Views/SmartFolderDetailView.swift" : {
+    "const-values" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/SmartFolderDetailView.swiftconstvalues",
+    "dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/SmartFolderDetailView.d",
+    "diagnostics" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/SmartFolderDetailView.dia",
+    "index-unit-output-path" : "/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/SmartFolderDetailView.o",
+    "llvm-bc" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/SmartFolderDetailView.bc",
+    "object" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/SmartFolderDetailView.o",
+    "swift-dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/SmartFolderDetailView.swiftdeps",
+    "swiftmodule" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/SmartFolderDetailView~partial.swiftmodule"
+  },
+  "/Users/brycecole/Files/test/test/Views/SymbolPickerView.swift" : {
+    "const-values" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/SymbolPickerView.swiftconstvalues",
+    "dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/SymbolPickerView.d",
+    "diagnostics" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/SymbolPickerView.dia",
+    "index-unit-output-path" : "/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/SymbolPickerView.o",
+    "llvm-bc" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/SymbolPickerView.bc",
+    "object" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/SymbolPickerView.o",
+    "swift-dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/SymbolPickerView.swiftdeps",
+    "swiftmodule" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/SymbolPickerView~partial.swiftmodule"
+  },
+  "/Users/brycecole/Files/test/test/Views/TrashNoteRow.swift" : {
+    "const-values" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/TrashNoteRow.swiftconstvalues",
+    "dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/TrashNoteRow.d",
+    "diagnostics" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/TrashNoteRow.dia",
+    "index-unit-output-path" : "/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/TrashNoteRow.o",
+    "llvm-bc" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/TrashNoteRow.bc",
+    "object" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/TrashNoteRow.o",
+    "swift-dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/TrashNoteRow.swiftdeps",
+    "swiftmodule" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/TrashNoteRow~partial.swiftmodule"
+  },
+  "/Users/brycecole/Files/test/test/Views/TrashView.swift" : {
+    "const-values" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/TrashView.swiftconstvalues",
+    "dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/TrashView.d",
+    "diagnostics" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/TrashView.dia",
+    "index-unit-output-path" : "/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/TrashView.o",
+    "llvm-bc" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/TrashView.bc",
+    "object" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/TrashView.o",
+    "swift-dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/TrashView.swiftdeps",
+    "swiftmodule" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/TrashView~partial.swiftmodule"
+  },
+  "/Users/brycecole/Files/test/test/testApp.swift" : {
+    "const-values" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/testApp.swiftconstvalues",
+    "dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/testApp.d",
+    "diagnostics" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/testApp.dia",
+    "index-unit-output-path" : "/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/testApp.o",
+    "llvm-bc" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/testApp.bc",
+    "object" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/testApp.o",
+    "swift-dependencies" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/testApp.swiftdeps",
+    "swiftmodule" : "/Users/brycecole/Files/test/DerivedData/Build/Intermediates.noindex/Note.build/Debug-iphoneos/Note.build/Objects-normal/arm64/testApp~partial.swiftmodule"
+  }
+}
